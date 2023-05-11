@@ -1,0 +1,70 @@
+  *{
+        margin: 0;
+        padding: 0;
+    }  
+    
+
+
+#plan1{background-image: url(توت-عنخ-امون-396x470.jpg );
+
+    background-repeat: no-repeat;
+     background-position: center;
+    background-size: cover;
+    height:800px;
+    
+    text-align: center;
+    
+}
+#plane4{    text-align: center;
+
+    
+}
+
+
+#plane3{ background-color: blue;
+    padding: 50px;
+    text-align: center;
+    size: 70px;
+    
+    
+
+}
+
+    
+
+#map {
+    height: 800px;
+    width:1000px;
+    margin: 10px auto;
+    
+    background-color: cyan;
+}
+
+    
+    
+.123{
+    padding: 50px;
+    
+    
+  
+}
+
+
+.nav{
+    
+    background-color: wheat;
+   padding: 15px;
+    height: 25px;
+    
+}
+.nav li {
+    display: inline-block;
+    margin-right: 25px;
+    
+    
+    
+}
+.nav li a{
+    text-decoration:none;
+    color: gray;
+}
